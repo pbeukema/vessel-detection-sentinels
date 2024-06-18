@@ -10,7 +10,7 @@ mapcalc==0.2.2
 pandas==1.4.3
 scikit-image==0.19.3
 python-dateutil==2.8.2
-scikit-learn==1.1.2
+scikit-learn==1.5.0
 sentinelsat==1.1.1
 landsatxplore==0.13.0
 wandb==0.13.3
